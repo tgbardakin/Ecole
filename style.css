@@ -122,6 +122,8 @@ nav a img{
     border: 1px solid white;
     cursor: pointer;
     margin: auto;
+    padding: 5px;
+    border-radius: 5px;
 
 }
 .hero-btn:hover{
@@ -142,8 +144,9 @@ nav a img{
 }
 .row{
     display: flex;
-  j justify-content: space-between;
+   justify-content: space-between;
      margin-top: 20px;
+     gap: 5px
 }
 .course-col{
     background-color: rgb(233, 229, 222);
