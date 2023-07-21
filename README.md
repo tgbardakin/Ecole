@@ -10,4 +10,4 @@
 
 <h5>Démonstration</h5>
 
-![](ecole.gif)
+![](ecole-3.gif)
